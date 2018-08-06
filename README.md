@@ -7,4 +7,4 @@ Currently I pick one stock and use recurrent neural network with long-short term
 ## Future Work ##
 Productionize the process to all stocks and ETFs, potentially using the `Flask` package. 
 ## Requirements ##
-`Python`, `keras`, `sci-kit-learn` and other common analytical packages. 
+`Python`, `keras`, `scikit-learn` and other common analytical packages. 
